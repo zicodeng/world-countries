@@ -1,0 +1,20 @@
+{
+  "name": "@ztopia/world-countries",
+  "version": "1.0.0",
+  "description": "All country names, abbreviations, and chinese translations",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "country",
+    "countries",
+    "world countries"
+  ],
+  "scripts": {
+    "translate": "node ./translate.js"
+  },
+  "author": "Zico Deng",
+  "license": "ISC",
+  "devDependencies": {
+    "translate": "^1.1.1"
+  }
+}
