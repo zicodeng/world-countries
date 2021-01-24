@@ -1,6 +1,6 @@
 {
   "name": "@ztopia/world-countries",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "All country names, abbreviations, and chinese translations",
   "main": "index.js",
   "type": "module",
