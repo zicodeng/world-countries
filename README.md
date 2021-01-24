@@ -5,7 +5,7 @@ All country names, abbreviations, and chinese translations
 ## Usage
 
 ```js
-import { US_STATES } from '@ztopia/us-states';
+import { WORLD_COUNTRIES } from '@ztopia/world-countries';
 
 // [
 //   ...
